@@ -1,7 +1,6 @@
 streamlit_option_menu
 numpy
 pandas
-sklearn
 keras
 matplotlib
 pandas_datareader
