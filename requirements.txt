@@ -5,3 +5,4 @@ sklearn
 keras
 matplotlib
 pandas_datareader
+sklearn.preprocessing
