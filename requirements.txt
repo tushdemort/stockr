@@ -1,6 +1,6 @@
 streamlit_option_menu
 numpy
-pandas
+pandas==1.5.3
 keras
 matplotlib
 pandas_datareader
